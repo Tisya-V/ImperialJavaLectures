@@ -1,6 +1,6 @@
 # Imperial Java Lectures
 
-The code involved in the Java Lectures hosted by Alastair Donaldson. 
+First year notes for "Object-oriented Programming in Java" taught by Alastair Donaldson at Imperial College London.
 
 ## Available Code
 
@@ -13,3 +13,4 @@ The code involved in the Java Lectures hosted by Alastair Donaldson.
 4. Lecture 4
    1. [Infinite Streams](src/lectrue4/StreamsDemo.java)
    2. [Garbage Collection](src/lectrue4/GarbageCollectionsDemo.java)
+   3. Basic Inheritance [[1]](src/lecture4/Inheritance.java) [[2]](src/lecture4/Lamp.java)
